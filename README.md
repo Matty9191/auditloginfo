@@ -34,14 +34,10 @@ Commands executed:
    ls --color=auto -la  1
 
 Files opened:
-    /etc/ld.so.cache 17
-    /lib64/libc.so.6 15
-    /etc/passwd 14
-    /usr/lib/locale/locale-archive 12
-    /lib64/libpthread.so.0 8
-    /lib64/libpcre.so.1 8
-    /usr/lib64/gconv/gconv-modules.cache 7
-    /proc/filesystems 7
-    /lib64/libselinux.so.1 7
-    /lib64/libdl.so.2 7
+   /etc/ld.so.cache 17
+   /lib64/libc.so.6 15
+   /etc/passwd 14
+   /usr/lib/locale/locale-archive 12
+   /lib64/libpthread.so.0 8
+   /lib64/libpcre.so.1 8
 </pre>
