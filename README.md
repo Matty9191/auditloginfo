@@ -3,7 +3,7 @@
 auditloginfo takes an audit log and produces a report listing the number of system calls run, the commands that were executed and the files that were opened. This is useful information to have when you are assembling SELinux profiles or figuring out which Linux capabilities are needed by a program.
 
 # Sample output
-
+<pre>
 $  sudo auditloginfo.py --uid 7005 |more
 Audit report for AUID 7005
 
@@ -44,3 +44,4 @@ Files opened:
     /proc/filesystems 7
     /lib64/libselinux.so.1 7
     /lib64/libdl.so.2 7
+</pre>
