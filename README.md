@@ -1,6 +1,6 @@
 # Process audit logs
 
-auditloginfo takes an audit log and produces a report listing the number of system calls run, the commands that were executed and the files that were opened. This is useful information to have when you are assembling SELinux profiles or figuring out which Linux capabilities are needed by a program.
+auditloginfo takes an audit log and produces a report listing the number of system calls executed, commands runs and files  opened for a sepcific userid. This is useful information to have when you are assembling SELinux profiles or figuring out which Linux capabilities are needed by a program.
 
 # Sample output
 <pre>
