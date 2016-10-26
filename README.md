@@ -4,7 +4,7 @@ auditloginfo takes an audit log and produces a report listing the number of syst
 
 # Sample output
 <pre>
-$  sudo auditloginfo.py --uid 7005 |more
+$  sudo auditloginfo.py --uid 7005
 Audit report for AUID 7005
 
 System calls made:
